@@ -1,0 +1,23 @@
+{
+  "name": "0_68_Puppeteer",
+  "version": "1.0.0",
+  "description": "a walkthrough of Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancn21th/0_68_Puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fancn21th/0_68_Puppeteer/issues"
+  },
+  "homepage": "https://github.com/fancn21th/0_68_Puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
